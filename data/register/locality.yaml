@@ -1,0 +1,9 @@
+fields:
+- locality
+- name
+- start-date
+- end-date
+phase: alpha
+register: locality
+registry: ordnance-survey
+text: ' A locality in the UK'

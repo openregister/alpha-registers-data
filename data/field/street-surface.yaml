@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: street-surface
+phase: alpha
+register: street-surface
+text: The surface finish of the street.

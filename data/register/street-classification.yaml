@@ -1,0 +1,7 @@
+fields:
+- street-classification
+- name
+phase: alpha
+register: street-classification
+registry: ordnance-survey
+text: 'The classification of a street'

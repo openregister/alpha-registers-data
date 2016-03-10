@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: secondary-name
+phase: alpha
+register: ''
+text: Secondary name of an entry

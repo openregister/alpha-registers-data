@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: parent-address
+phase: alpha
+register: address
+text: An address to which an address belongs to.

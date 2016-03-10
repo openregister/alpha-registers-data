@@ -1,0 +1,6 @@
+datatype: line
+phase: alpha
+text: A series of longitude and latitude points, encoded as a string
+    representation of the GeoJSON LineString coordinates format.
+    The coordinate system, and reperesntation of each point is
+    compatible with the point datatype.

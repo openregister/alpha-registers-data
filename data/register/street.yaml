@@ -9,7 +9,7 @@ fields:
 - line
 - street-surface
 - street-classification
-- local-authority
+- street-authority
 - start-date
 - end-date
 phase: alpha

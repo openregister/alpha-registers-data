@@ -1,0 +1,7 @@
+fields:
+- street-authority
+- organisation
+phase: alpha
+register: street-authority
+registry: ordnance-survey
+text: 'Local authorities and other organisations responsible for street naming and numbering'

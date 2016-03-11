@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: secondary-name
+field: primary-name-cy
 phase: alpha
 register: ''
-text: Secondary name of an entry
+text: Primary Welsh name of an entry

@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: official-name
+field: name-cy
 phase: beta
 register: ''
-text: Official name for an entry
+text: Welsh name for a register entry.

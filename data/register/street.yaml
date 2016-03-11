@@ -2,6 +2,7 @@ copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 
 fields:
 - street
 - name
+- name-cy
 - locality
 - town
 - administrative-area

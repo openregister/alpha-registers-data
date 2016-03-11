@@ -1,6 +1,7 @@
 fields:
 - town
 - name
+- name-cy
 - start-date
 - end-date
 phase: alpha

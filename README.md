@@ -20,5 +20,3 @@ The shape of the registers and links between the data can be tested by running `
     $ make init
 
     $ make
-
-A dump of each register as `JSON-L` is generated in the [prod](prod) directory.

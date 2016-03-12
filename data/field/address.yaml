@@ -3,4 +3,4 @@ datatype: string
 field: address
 phase: alpha
 register: address
-text: A place in the UK with a postal address.
+text: 'The [Unique Property Reference Number](https://www.geoplace.co.uk/addresses/uprn) [PDF](https://www.geoplace.co.uk/documents/10181/41984/2015%20the%20UPRN%20lifecycle%20V3%20%28CMS%20ID%20-%201429701616057%29), encoded as three sets of characters separated by hyphens using Douglas Crockford''s [base32 encoding scheme](http://www.crockford.com/wrmg/base32.html).'

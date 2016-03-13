@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: primary-name
-phase: alpha
-register: ''
-text: Primary name of an entry

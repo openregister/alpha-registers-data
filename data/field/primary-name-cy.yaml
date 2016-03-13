@@ -1,6 +1,0 @@
-cardinality: '1'
-datatype: string
-field: primary-name-cy
-phase: alpha
-register: ''
-text: Primary Welsh name of an entry

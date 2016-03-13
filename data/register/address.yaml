@@ -2,10 +2,9 @@ copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 
 fields:
 - address
 - parent-address
+- primary-address
 - name
 - name-cy
-- primary-name
-- primary-name-cy
 - street
 - point
 - start-date

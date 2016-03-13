@@ -1,0 +1,7 @@
+fields:
+- street-surface
+- name
+phase: alpha
+register: street-surface
+registry: ordnance-survey
+text: 'The surface finish of a street'

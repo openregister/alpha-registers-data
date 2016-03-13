@@ -7,4 +7,4 @@ fields:
 phase: alpha
 register: postcode
 registry: office-for-national-statistics
-text: 'Postal codes which may appear in a UK address'
+text: 'Postal codes use in postal delivery addresses in the UK'

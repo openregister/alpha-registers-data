@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: administrative-area
+phase: alpha
+register: ''
+text: A local authority or other administrative area.

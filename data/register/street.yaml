@@ -1,0 +1,18 @@
+copyright: "Contains Ordnance Survey data \xA9 Crown copyright & database right 2015"
+fields:
+- street
+- name
+- name-cy
+- locality
+- town
+- administrative-area
+- line
+- street-surface
+- street-classification
+- street-authority
+- start-date
+- end-date
+phase: alpha
+register: street
+registry: ordnance-survey
+text: 'A way or thorougfare providing a right of passage on foot, by cycle or motor vehicle, or access to one or more property in the UK'

@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: string
 field: town
 phase: alpha
-register: ''
-text: The town of an address.
+register: 'town'
+text: A town in the UK

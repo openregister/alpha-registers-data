@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: primary-address
+phase: alpha
+register: address
+text: The address whose name may be taken as the BS7666 Primary Addressable Object

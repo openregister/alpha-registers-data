@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: curie
+field: street-authority
+phase: beta
+register: street-authority
+text: 'Local authority or other organisation responsible for street naming and numbering'

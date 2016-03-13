@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: line
+field: line
+phase: alpha
+register: ''
+text: 'A series of geographical points forming a line'

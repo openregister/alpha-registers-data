@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: street-classification
+phase: alpha
+register: street-classification
+text: 'The classification of a street.'

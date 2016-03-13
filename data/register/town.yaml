@@ -1,0 +1,10 @@
+fields:
+- town
+- name
+- name-cy
+- start-date
+- end-date
+phase: alpha
+register: town
+registry: ordnance-survey
+text: ' A town in the UK'

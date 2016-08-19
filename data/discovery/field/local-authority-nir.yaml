@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: local-authority-nir
+phase: discovery
+register: local-authority-nir
+text: A local authority in Northern Ireland.

@@ -1,0 +1,9 @@
+fields:
+- food-authority
+- organisation
+- website
+- email
+phase: discovery
+register: food-authority
+registry: government-digital-service
+text: 'Food authority organisations'

@@ -3,7 +3,7 @@ fields:
 - name
 - start-date
 - end-date
-phase: discovery
+phase: alpha
 register: local-authority-type
 registry: government-digital-service
 text: 'Types of local government organisations in the United Kingdom'

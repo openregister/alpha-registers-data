@@ -6,7 +6,7 @@ fields:
 - "website"
 - "start-date"
 - "end-date"
-phase: "alpha"
+phase: "discovery"
 register: "local-authority-eng"
 registry: "department-for-communities-and-local-government"
 text: "Local authorities in England"

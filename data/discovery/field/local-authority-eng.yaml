@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
 field: local-authority-eng
-phase: alpha
+phase: discovery
 register: local-authority-eng
 text: A local authority in England.

@@ -1,6 +1,6 @@
 text: "A job centre"
-field: "job-centre"
+field: "jobcentre"
 phase: "discovery"
 datatype: "string"
-register: "job-centre"
+register: "jobcentre"
 cardinality: "1"

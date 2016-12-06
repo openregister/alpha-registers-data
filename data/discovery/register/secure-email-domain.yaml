@@ -1,0 +1,6 @@
+fields:
+- secure-email-domain
+phase: "discovery"
+register: "secure-email-domain"
+registry: "cabinet-office"
+text: "Domains that can receive email securely"

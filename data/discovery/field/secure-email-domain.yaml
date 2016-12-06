@@ -1,0 +1,6 @@
+text: "A Secure Email Domain"
+field: "secure-email-domain"
+phase: "discovery"
+datatype: "string"
+register: "secure-email-domain"
+cardinality: "1"

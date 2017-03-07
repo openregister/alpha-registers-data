@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: url
+datatype: string
 field: website
 phase: discovery
 text: Website for register entry.

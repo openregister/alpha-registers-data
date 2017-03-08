@@ -2,8 +2,8 @@ fields:
 - "principal-local-authority"
 - "name"
 - "name-cy"
-- "local-authority-type
-- "official-name
+- "local-authority-type"
+- "official-name"
 - "start-date"
 - "end-date"
 phase: "alpha"

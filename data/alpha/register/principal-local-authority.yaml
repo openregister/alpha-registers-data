@@ -3,7 +3,6 @@ fields:
 - "name"
 - "name-cy"
 - "local-authority-type"
-- "official-name"
 - "start-date"
 - "end-date"
 phase: "alpha"

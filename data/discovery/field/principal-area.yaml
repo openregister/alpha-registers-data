@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: principal-area
+phase: discovery
+register: principal-area
+text: 'The unique code representing a principal area in Wales'

@@ -1,0 +1,10 @@
+fields:
+- "principal-area"
+- "name"
+- "name-cy"
+- "start-date"
+- "end-date"
+phase: "discovery"
+register: "principal-area"
+registry: "welsh-government"
+text: "Principal areas in Wales"

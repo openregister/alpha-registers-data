@@ -1,0 +1,11 @@
+fields:
+- "principal-local-authority"
+- "name"
+- "name-cy"
+- "local-authority-type"
+- "start-date"
+- "end-date"
+phase: "alpha"
+register: "principal-local-authority"
+registry: "welsh-government"
+text: "Local authorities in Wales"

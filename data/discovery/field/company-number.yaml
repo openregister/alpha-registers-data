@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: company-number
+phase: discovery
+register: 
+text: The company number of a UK registered company.

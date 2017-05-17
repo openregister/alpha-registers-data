@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: string
+field: certification-body
+phase: discovery
+register: certification-body
+text: The unique identifier of the certification body.

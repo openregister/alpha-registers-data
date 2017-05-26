@@ -3,4 +3,4 @@ datatype: string
 field: notifiable-animal-disease-investigation-category
 phase: alpha
 register: notifiable-animal-disease-investigation-category
-text: Veterinary Exotic Notifiable Disease Unit investigation category.
+text: The Suspect case reference code used by the Animal and Plant Health Agency for investigations into notifiable animal diseases in Great Britain.

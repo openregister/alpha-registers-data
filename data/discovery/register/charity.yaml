@@ -1,0 +1,12 @@
+fields:
+- charity
+- name
+- charity-classes
+- company
+- address
+- start-date
+- end-date
+phase: discovery
+register: charity
+registry: charity-commission
+text: the possible classes for a charity in the United Kingdom as defined by the charity commission

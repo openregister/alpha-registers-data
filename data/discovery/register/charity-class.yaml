@@ -1,0 +1,9 @@
+fields:
+- charity-class
+- name
+- start-date
+- end-date
+phase: discovery
+register: charity-class
+registry: charity-commission
+text: charities in the United Kingdom

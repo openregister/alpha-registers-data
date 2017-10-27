@@ -3,4 +3,4 @@ datatype: string
 field: charity
 phase: discovery
 register: charity
-text: A UK registered charity.
+text: A charity registered in England or Wales.

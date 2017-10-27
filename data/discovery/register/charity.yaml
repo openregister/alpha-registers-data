@@ -9,4 +9,4 @@ fields:
 phase: discovery
 register: charity
 registry: charity-commission
-text: A charity in England or Wales as defined by the charity commission
+text: A charity in England or Wales as defined by the Charity Commission

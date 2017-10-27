@@ -3,4 +3,4 @@ datatype: string
 field: charity-classes
 phase: discovery
 register: charity-class
-text: The classes that a charity registered in the UK falls into.
+text: The classes that a charity falls into.

@@ -3,4 +3,4 @@ datatype: string
 field: charity-class
 phase: discovery
 register: charity-class
-text: The class for a charity registered in england or scotland as defined by the Charity Commission.
+text: The class for a charity registered in england or wales as defined by the Charity Commission.

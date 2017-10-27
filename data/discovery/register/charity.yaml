@@ -9,4 +9,4 @@ fields:
 phase: discovery
 register: charity
 registry: charity-commission
-text: the possible classes for a charity in the United Kingdom as defined by the charity commission
+text: The possible classes for a charity in England and Wales as defined by the charity commission

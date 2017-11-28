@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography-county-eng
 phase: alpha
 register: statistical-geography-county-eng
-text: The statistical geography code for a county in england.
+text: The statistical geography code for a county in England.

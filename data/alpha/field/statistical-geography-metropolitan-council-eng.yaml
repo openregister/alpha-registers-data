@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography-metropolitan-council-eng
 phase: alpha
 register: statistical-geography-metropolitan-council-eng
-text: The statistical geography code for a metropolitan council in england.
+text: The statistical geography code for a metropolitan council in England.

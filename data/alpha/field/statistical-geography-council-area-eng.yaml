@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography-council-area-eng
 phase: alpha
 register: statistical-geography-council-area-eng
-text: The statistical geography code for a council area in England.
+text: The statistical geography code for a council area in england.

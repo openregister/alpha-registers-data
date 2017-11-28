@@ -3,4 +3,4 @@ datatype: string
 field: statistical-geography-non-metropolitan-council-eng
 phase: alpha
 register: statistical-geography-non-metropolitan-council-eng
-text: The statistical geography code for a non metropolitan council in England.
+text: The statistical geography code for a non metropolitan council in england.

@@ -3,4 +3,5 @@ datatype: string
 field: statistical-geography-london-borough-eng
 phase: alpha
 register: statistical-geography-london-borough-eng
-text: The statistical geography code for a london borough in England.
+text: The statistical geography code for a London borough in England.
+a non metropolitan council in

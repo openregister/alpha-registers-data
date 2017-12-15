@@ -3,4 +3,4 @@ datatype: string
 field: parent-qualification-sector-subject-area
 phase: discovery
 register: qualification-sector-subject-area
-text: A subject of a qualification regulated by Ofqual
+text: A broader subject area of a subject of a qualification regulated by Ofqual

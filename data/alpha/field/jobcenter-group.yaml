@@ -3,4 +3,4 @@ datatype: string
 field: jobcentre-group
 phase: alpha
 register: 'jobcentre-group'
-text: 'A jobcentre office group'
+text: 'A grouping of jobcentre offices'

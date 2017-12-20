@@ -1,7 +1,7 @@
 fields:
 - jobcentre-district
 - name
-- local-authority
+- local-authorities
 - start-date
 - end-date
 phase: alpha

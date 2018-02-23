@@ -1,0 +1,6 @@
+cardinality: '1'
+datatype: text
+field: contact
+phase: discovery
+register: ''
+text: Contact details

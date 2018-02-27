@@ -1,5 +1,5 @@
 cardinality: 'n'
-datatype: text
+datatype: string
 field: recipient-name
 phase: discovery
 register: ''

@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: text
+datatype: string
 field: contact
 phase: discovery
 register: ''

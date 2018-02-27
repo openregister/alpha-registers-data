@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: text
+datatype: url
 field: legislation
 phase: discovery
 register: ''

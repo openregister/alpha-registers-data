@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: text
+datatype: string
 field: retention-period
 phase: discovery
 register: ''

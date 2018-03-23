@@ -1,5 +1,5 @@
 cardinality: '1'
-datatype: datetime
+datatype: string
 field: review-date
 phase: discovery
 register: ''

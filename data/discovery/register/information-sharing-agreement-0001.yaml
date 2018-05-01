@@ -1,5 +1,5 @@
 fields:
-- data-sharing-agreement-0001
+- information-sharing-agreement-0001
 - name
 - purpose
 - areas
@@ -8,7 +8,7 @@ fields:
 - disclosed-information
 - suppliers
 - supplier-names
-- data-sharing-method
+- information-sharing-method
 - recipients
 - recipient-names
 - retention-period
@@ -16,8 +16,8 @@ fields:
 - end-date
 - review-date
 - contact
-- data-sharing-benefits
+- information-sharing-benefits
 phase: discovery
-register: data-sharing-agreement-0001
+register: information-sharing-agreement-0001
 registry: department-for-digital-culture-media-sport
 text: Data Sharing Agreements under the Public Service Delivery, Debt, Fraud and Civil Registration provisions within the Digital Economy Act 2017

@@ -4,7 +4,7 @@ fields:
 - description
 - start-date
 - end-date 
-phase: discovery
-register: dda-profession-capability-framework-skill
+phase: alpha
+register: ddat-profession-capability-framework-skill
 registry: government-digital-service
 text: 'Skills defined for use within the Digital Data and Technology Profession Capability Framework'

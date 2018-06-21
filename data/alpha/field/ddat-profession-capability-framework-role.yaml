@@ -1,6 +1,6 @@
 cardinality: '1'
 datatype: string
-field: profession-capability-framework-job-family
-phase: discovery
-register: profession-capability-framework-job-family
-text: Description TBD.
+field: ddat-profession-capability-framework-role
+phase: alpha
+register: ddat-profession-capability-framework-role
+text: The unique code for a role defined by the Digital Data and Technology profession capability framework.

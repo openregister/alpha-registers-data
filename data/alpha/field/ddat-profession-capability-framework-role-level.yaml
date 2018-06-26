@@ -3,4 +3,4 @@ datatype: string
 field: ddat-profession-capability-framework-role-level
 phase: alpha
 register: ddat-profession-capability-framework-role-level
-text: The unique code for the levels associated with each role in the Digital Data and Technology Proffession Capability Framework.
+text: The unique code for the levels associated with each role in the Digital Data and Technology Profession Capability Framework.

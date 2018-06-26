@@ -3,4 +3,4 @@ datatype: string
 field: ddat-profession-capability-framework-role
 phase: alpha
 register: ddat-profession-capability-framework-role
-text: The unique code for a role in the Digital Data and Technology Profession Capability Framework.
+text: The unique code for a role in the Digital, Data and Technology Profession Capability Framework.

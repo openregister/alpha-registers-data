@@ -1,7 +1,7 @@
 fields:
 - ddat-profession-capability-framework-skill-level
-- ddat-profession-capability-framework-skills
-- ddat-profession-capability-framework-levels
+- profession-capability-framework-skill
+- profession-capability-framework-level
 - description
 - start-date
 - end-date

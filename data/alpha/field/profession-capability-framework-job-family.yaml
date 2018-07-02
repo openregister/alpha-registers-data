@@ -1,6 +1,6 @@
-cardinality: 'n'
+cardinality: '1'
 datatype: curie
-field: ddat-profession-capability-framework-job-families
+field: profession-capability-framework-job-family
 phase: alpha
 register: ddat-profession-capability-framework-job-family
 text: The unique code for a job family defined for use in the Digital, Data and Technology Profession Capability Framework.

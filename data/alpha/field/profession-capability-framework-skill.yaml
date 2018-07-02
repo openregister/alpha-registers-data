@@ -3,4 +3,4 @@ datatype: curie
 field: profession-capability-framework-skill
 phase: alpha
 register: ''
-text: The unique code for the skills used in the Digital, Data and Technology Profession Capability Framework.
+text: The unique code for the skills used in a profession capability framework.

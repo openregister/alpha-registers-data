@@ -1,0 +1,6 @@
+cardinality: 'n'
+datatype: curie
+field: ddat-profession-capability-framework-role-levels
+phase: alpha
+register: ddat-profession-capability-framework-role-level
+text: The unique code for the levels associated with each role in the Digital, Data and Technology Profession Capability Framework.

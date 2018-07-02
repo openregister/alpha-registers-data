@@ -1,11 +1,11 @@
 fields:
 - ddat-profession-capability-framework
-- ddat-profession-capability-framework-skill-type
-- ddat-profession-capability-framework-job-family
-- ddat-profession-capability-framework-role
-- ddat-profession-capability-framework-role-level
-- ddat-profession-capability-framework-skill
-- ddat-profession-capability-framework-level
+- ddat-profession-capability-framework-skill-types
+- ddat-profession-capability-framework-job-families
+- ddat-profession-capability-framework-roles
+- ddat-profession-capability-framework-role-levels
+- ddat-profession-capability-framework-skills
+- ddat-profession-capability-framework-levels
 - start-date
 - end-date
 phase: alpha

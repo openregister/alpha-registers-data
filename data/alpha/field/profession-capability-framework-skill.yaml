@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: curie
 field: profession-capability-framework-skill
 phase: alpha
-register: ddat-profession-capability-framework-skill
+register: ''
 text: The unique code for the skills used in the Digital, Data and Technology Profession Capability Framework.

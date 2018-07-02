@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: curie
 field: profession-capability-framework-job-family
 phase: alpha
-register: ddat-profession-capability-framework-job-family
+register: ''
 text: The unique code for a job family defined for use in the Digital, Data and Technology Profession Capability Framework.

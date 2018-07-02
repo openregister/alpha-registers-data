@@ -2,5 +2,5 @@ cardinality: '1'
 datatype: curie
 field: profession-capability-framework-role
 phase: alpha
-register: ddat-profession-capability-framework-role
+register: ''
 text: The unique code for a role in the Digital, Data and Technology Profession Capability Framework.

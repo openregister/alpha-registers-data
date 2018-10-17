@@ -1,18 +1,9 @@
 fields:
-- geographical-indicator
-- geographical-indicator-products
+- geographical-indicator-status
 - name
-- website
-- geographical-indicator-product-classes
-- geographical-indicator-statuses
-- submission-date
-- award-registration-date
-- change-date
-- geographical-indicator-classifications
-- origin-country
 - start-date
 - end-date
 phase: discovery
-register: uk
-registry: cabinet-office
-text: 'Constituent units of the United Kingdom'
+register: geographical-indicator-product-status
+registry: department-for-enviroment-food-rural-affairs
+text: 'Placeholder Text'

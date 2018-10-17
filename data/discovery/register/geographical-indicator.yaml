@@ -13,5 +13,5 @@ fields:
 - end-date
 phase: discovery
 register: geographical-indicator
-registry: department-for-enviroment-food-rural-affairs
+registry: 'department-for-environment-food-rural-affairs'
 text: 'Geographical Indicators description to be decided'

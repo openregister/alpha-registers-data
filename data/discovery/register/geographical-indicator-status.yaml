@@ -5,5 +5,5 @@ fields:
 - end-date
 phase: discovery
 register: geographical-indicator-product-status
-registry: department-for-enviroment-food-rural-affairs
+registry: 'department-for-environment-food-rural-affairs'
 text: 'Placeholder Text'

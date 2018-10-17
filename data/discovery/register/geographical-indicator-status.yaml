@@ -1,0 +1,18 @@
+fields:
+- geographical-indicator
+- geographical-indicator-products
+- name
+- website
+- geographical-indicator-product-classes
+- geographical-indicator-statuses
+- submission-date
+- award-registration-date
+- change-date
+- geographical-indicator-classifications
+- origin-country
+- start-date
+- end-date
+phase: discovery
+register: uk
+registry: cabinet-office
+text: 'Constituent units of the United Kingdom'

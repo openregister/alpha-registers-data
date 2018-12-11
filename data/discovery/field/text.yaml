@@ -1,4 +1,4 @@
-lity: '1'
+cardinality: '1'
 datatype: text
 field: text
 phase: discovery

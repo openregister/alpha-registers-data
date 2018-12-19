@@ -54,8 +54,6 @@ def test_register_phase(register):
 
 @pytest.mark.parametrize('register', registers)
 def test_register_fields_are_known(register):
-    import pdb
-    pdb.set_trace()
     item = registers[register]
     for field in item.fields:
         assert field in fields

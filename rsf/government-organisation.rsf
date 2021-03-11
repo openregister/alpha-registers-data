@@ -18,7 +18,9 @@ add-item	{"fields":["government-organisation","name","website","start-date","end
 add-item	{"cardinality":"1","datatype":"url","field":"website","phase":"beta","text":"The website for a register entry."}
 add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
 add-item	{"end-date":"2017-03-15","government-organisation":"EA41","name":"Royal Parks","website":"https://www.gov.uk/government/organisations/royal-parks"}
+add-item	{"government-organisation":"EA61","name":"Foreign, Commonwealth & Development Office"}
 add-item	{"government-organisation":"OT1266","name":"Single Financial Guidance Body","website":"https://www.gov.uk/government/organisations/single-financial-guidance-body"}
+add-item	{"government-organisation":"D13","name":"Foreign, Commonwealth & Development Office","website":"https://www.gov.uk/government/organisations/foreign-commonwealth-office"}
 add-item	{"government-organisation":"OT1267","name":"Employment Agency Standards Inspectorate","website":"https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"}
 add-item	{"government-organisation":"OT1268","name":"UK Council for Internet Safety","website":"https://www.gov.uk/government/organisations/uk-council-for-internet-safety"}
 add-item	{"government-organisation":"D5","name":"Digital, Culture, Media and Sport","website":"https://www.gov.uk/government/organisations/department-for-culture-media-sport"}
@@ -2059,4 +2061,7 @@ append-entry	user	EA41	2019-01-07T14:39:48Z	sha-256:901d5869fa97f764a6a2114704cc
 append-entry	user	OT1266	2019-01-21T16:23:43Z	sha-256:2c6212ad42c89b6c6d8f372b8e369011d53fa739ba72d906964e0f81310844c4
 append-entry	user	OT1267	2019-01-21T16:31:46Z	sha-256:6a06ff6e13be4f8e44fac4ba7682d16661ecbcc1d69a81f556e9645a99451199
 append-entry	user	OT1268	2019-01-21T16:44:12Z	sha-256:e7ba67093ef2e790c417ce31a4c62221cccee56037cf52a4489faf7b6c4e61fc
-assert-root-hash	sha-256:e089a73fc5dc15b9a8330c3f223b3ac8a53733809fce22dd6f88a0dc7a19edf2
+append-entry	user	EA61	2020-09-01T15:34:49Z	sha-256:37b677295acf7ae0da7444358ae5e96a15befb3b3ac7ab6d445726f8ee1f0596
+append-entry	user	EA61	2020-09-01T17:55:19Z	sha-256:11ff7f6cea45f67001a722d1a6341351cefe24b5ce634ccc916d687db05825b8
+append-entry	user	D13	2020-09-01T17:55:19Z	sha-256:7b07be6d51c3b6925e43c3cfcd56cd9acfbc163753708e58139f4f6d07e20ec3
+assert-root-hash	sha-256:c181a19dc4ad472f4370b84d46620a4e91ae6b6550bde32968ed28d0db5582bb

@@ -16,6 +16,12 @@ add-item	{"fields":["local-authority-eng","local-authority-type","name","officia
 add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The type of local government organisation."}
 add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
 add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"end-date":"2020-03-31","local-authority-eng":"SBU","local-authority-type":"NMD","name":"South Bucks","official-name":"South Bucks District Council"}
+add-item	{"end-date":"2020-03-31","local-authority-eng":"CHN","local-authority-type":"NMD","name":"Chiltern","official-name":"Chiltern District Council"}
+add-item	{"end-date":"2020-03-31","local-authority-eng":"BKM","local-authority-type":"CTY","name":"Buckinghamshire","official-name":"Buckinghamshire County Council","start-date":"1905-06-19"}
+add-item	{"end-date":"2020-03-31","local-authority-eng":"WYO","local-authority-type":"NMD","name":"Wycombe","official-name":"Wycombe District Council"}
+add-item	{"end-date":"2020-03-31","local-authority-eng":"AYL","local-authority-type":"NMD","name":"Aylesbury Vale","official-name":"Aylesbury Vale District Council"}
+add-item	{"local-authority-eng":"BUC","local-authority-type":"UA","name":"Buckinghamshire","official-name":"Buckinghamshire Council","start-date":"2020-04-01"}
 add-item	{"local-authority-eng":"BRC","local-authority-type":"UA","name":"Bracknell Forest","official-name":"Bracknell Forest Council","start-date":"1998-04-01"}
 add-item	{"local-authority-eng":"BDF","local-authority-type":"UA","name":"Bedford","official-name":"Bedford Borough Council","start-date":"2009-04-01"}
 add-item	{"local-authority-eng":"WDO","local-authority-type":"NMD","name":"West Dorset","official-name":"West Dorset District Council"}
@@ -808,4 +814,10 @@ append-entry	user	SWT	2018-10-09T14:05:00Z	sha-256:9339dba695d6bd68eeef83d0f8350
 append-entry	user	BPC	2018-10-09T14:05:52Z	sha-256:7ca95baa6d6e944eb8b5e311b293c0c265fd7982d9526388a5c8c474c273b7bb
 append-entry	user	DST	2018-10-09T14:07:04Z	sha-256:c5975a1e8ebd8bf987bd4f582b3927d74e6e1429af4f438e6dcec189c5fe28fe
 append-entry	user	BPC	2018-10-10T09:09:57Z	sha-256:86e4573a455be9d21705912cecb4129e642621a1cf46b903b9fde54dea611b03
-assert-root-hash	sha-256:84adc7ed355cdedc63fc5797089040ea9c95a7893b8a2f4d1ee03b14f3ed123e
+append-entry	user	WYO	2020-02-29T11:57:30Z	sha-256:abffbd179cafcfc02b8b91e03c1f0592383d1a72acd248120bfe8f5b01b63618
+append-entry	user	SBU	2020-02-29T11:57:30Z	sha-256:ebad7ecc5388627330327a214fb5797e7de124b22cea695c3e65e12efe85e84a
+append-entry	user	CHN	2020-02-29T11:57:30Z	sha-256:a3ae5805af7b452ac86d1762e8b23b98b87cace2d4e5b2e677bbe773cf2c68d9
+append-entry	user	AYL	2020-02-29T11:57:30Z	sha-256:c198d31a4dfd2705340d87e9586fd80778952158f9c9d57f5d01e36fe34767d3
+append-entry	user	BKM	2020-02-29T11:57:30Z	sha-256:7134f17f2ec2919b7e9df3edc228391921bede5a4846b9484c7f014db8fa6d15
+append-entry	user	BUC	2020-02-29T11:57:30Z	sha-256:e0ae43257fcb2e7bc159c060b0502acaed7a1af50efa312c6fb60e38c27066a7
+assert-root-hash	sha-256:c63bee971540464f60f6d3b3980aff304443dec9e41c3b627eadae9159557e49

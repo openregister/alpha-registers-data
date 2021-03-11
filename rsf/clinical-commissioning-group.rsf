@@ -256,6 +256,16 @@ add-item	{"clinical-commissioning-group":"11C","name":"NHS WINDSOR, ASCOT AND MA
 add-item	{"clinical-commissioning-group":"02V","name":"NHS LEEDS NORTH CCG","start-date":"2013-04-01"}
 add-item	{"clinical-commissioning-group":"13T","name":"NHS NEWCASTLE GATESHEAD CCG","start-date":"2014-11-26"}
 add-item	{"clinical-commissioning-group":"07R","name":"NHS CAMDEN CCG","start-date":"2013-04-01"}
+add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
+add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
+add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CCG","start-date":"2019-04-01"}
+add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE CCG","start-date":"2019-04-01"}
+add-item	{"clinical-commissioning-group":"04J","end-date":"2019-03-31","name":"NHS NORTH DERBYSHIRE CCG","start-date":"2013-04-01"}
+add-item	{"clinical-commissioning-group":"04R","end-date":"2019-03-31","name":"NHS SOUTHERN DERBYSHIRE CCG","start-date":"2013-04-01"}
+add-item	{"clinical-commissioning-group":"03X","end-date":"2019-03-31","name":"NHS EREWASH CCG","start-date":"2013-04-01"}
+add-item	{"clinical-commissioning-group":"99P","end-date":"2019-03-31","name":"NHS NORTHERN, EASTERN AND WESTERN DEVON CCG","start-date":"2013-04-01"}
+add-item	{"clinical-commissioning-group":"03Y","end-date":"2019-03-31","name":"NHS HARDWICK CCG","start-date":"2013-04-01"}
+add-item	{"clinical-commissioning-group":"99Q","end-date":"2019-03-31","name":"NHS SOUTH DEVON AND TORBAY CCG","start-date":"2013-04-01"}
 append-entry	system	name	2019-02-07T15:28:40Z	sha-256:8f6052e43e93d8804245f5da059dc882068477e8d5858501a3fe55e9492979ef
 append-entry	system	field:clinical-commissioning-group	2019-02-07T15:28:40Z	sha-256:cb8f5f03434ad2ecbe58245043c36318e9c10457aa316876c90ca02e83394020
 append-entry	system	field:name	2019-02-07T15:28:40Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
@@ -513,24 +523,14 @@ append-entry	user	99M	2019-02-07T15:28:40Z	sha-256:36956d9f24957da6ceb6ae5043300
 append-entry	user	99N	2019-02-07T15:28:40Z	sha-256:254d68c4a8d4b23a967083abbaf156ef89ba1453c622ab17fca01e951537978a
 append-entry	user	99P	2019-02-07T15:28:40Z	sha-256:380ae60e2ab7116ca2cd193f457da3e3b0ebf2f24a4f3063fb2c69f0948f6727
 append-entry	user	99Q	2019-02-07T15:28:40Z	sha-256:7697e7ed0b39c7438b15baa30a6ccef95f7a299cfa8f31827e75b68b20b79aa0
-assert-root-hash	sha-256:cedc2d34da13df5b40086476d41f14c705fb64b84a1bca20c2afa00eb6629e58
-add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
 append-entry	user	15M	2019-05-01T11:15:22Z	sha-256:1b6f3183598f530ae3f3b0572b100603370e4628533cc77e47debe23721ced4f
-add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CLINICAL COMMISSIONING GROUP","start-date":"2019-04-01"}
 append-entry	user	15N	2019-05-01T11:15:22Z	sha-256:2f37e09fcff898809c2a63fbeaaf8483dfa31931c76b5ce0a9d82e86eb8780b1
-add-item	{"clinical-commissioning-group":"15N","name":"NHS DEVON CCG","start-date":"2019-04-01"}
 append-entry	user	15N	2019-07-19T13:30:54Z	sha-256:70bf8ace9fc1f4b264e6158e54aa95a7b213e54556d434e8715233c41331824b
-add-item	{"clinical-commissioning-group":"15M","name":"NHS DERBY AND DERBYSHIRE CCG","start-date":"2019-04-01"}
 append-entry	user	15M	2019-07-19T13:30:54Z	sha-256:b031a415a8ea0054c5c13f6a51278ddb7e8f95ebbe4b6a4414bf6d760baf8a2a
-add-item	{"clinical-commissioning-group":"99Q","end-date":"2019-03-31","name":"NHS SOUTH DEVON AND TORBAY CCG","start-date":"2013-04-01"}
 append-entry	user	99Q	2019-07-19T13:30:54Z	sha-256:34ce755eb2a93aae0ff5dcce9560a09f55eb368de1e77fa5bc738350b0292421
-add-item	{"clinical-commissioning-group":"99P","end-date":"2019-03-31","name":"NHS NORTHERN, EASTERN AND WESTERN DEVON CCG","start-date":"2013-04-01"}
 append-entry	user	99P	2019-07-19T13:30:54Z	sha-256:226f8ed5fe16e9d742e131c1170e6d5d11f75d870b6b41c049a8b24a1544881f
-add-item	{"clinical-commissioning-group":"04R","end-date":"2019-03-31","name":"NHS SOUTHERN DERBYSHIRE CCG","start-date":"2013-04-01"}
 append-entry	user	04R	2019-07-19T13:30:54Z	sha-256:9f3897df8fa348adb7ebce37c2e3f0479e6c97bba175f482f3e8179b6c042451
-add-item	{"clinical-commissioning-group":"04J","end-date":"2019-03-31","name":"NHS NORTH DERBYSHIRE CCG","start-date":"2013-04-01"}
 append-entry	user	04J	2019-07-19T13:30:54Z	sha-256:d28fb5fd44e8f26aff8c4f8d3ceed989b9c76e1715944dc7d5e67a801530de09
-add-item	{"clinical-commissioning-group":"03Y","end-date":"2019-03-31","name":"NHS HARDWICK CCG","start-date":"2013-04-01"}
 append-entry	user	03Y	2019-07-19T13:30:54Z	sha-256:0d9463753d8d69326d707b0784b0957644705adaab240704c89079c03058048d
-add-item	{"clinical-commissioning-group":"03X","end-date":"2019-03-31","name":"NHS EREWASH CCG","start-date":"2013-04-01"}
 append-entry	user	03X	2019-07-19T13:30:54Z	sha-256:34f57db42314779fa4c3d34f63b17de9be21af1f8fb924fef936a0abef028040
+assert-root-hash	sha-256:06edd5de83141ccebfae5f14e7c4d1b51d52402d87d3070e1869a235a99c7ed6

@@ -14,6 +14,27 @@ add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"be
 add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
 add-item	{"cardinality":"1","datatype":"string","field":"jobcentre-group","phase":"beta","register":"jobcentre-group","text":"The unique code for a grouping of jobcentre offices."}
 add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a jobcentre."}
+add-item	{"jobcentre":"9612","jobcentre-district":"115","name":"Caernarfon"}
+add-item	{"address":"10090511700","jobcentre":"1791","jobcentre-district":"137","name":"Bexhill"}
+add-item	{"address":"10091157379","jobcentre":"4578","jobcentre-district":"112","name":"Lichfield","start-date":"2019-03-20"}
+add-item	{"address":"10093304529","jobcentre":"1834","jobcentre-district":"117","name":"Maidstone"}
+add-item	{"address":"10003003170","jobcentre":"1541","jobcentre-district":"106","name":"Uxbridge"}
+add-item	{"jobcentre":"7622","jobcentre-district":"110","name":"Ashton-under-Lyne"}
+add-item	{"address":"10090745906","jobcentre":"4720","jobcentre-district":"118","name":"Bromsgrove"}
+add-item	{"address":"100012609264","jobcentre":"7629","jobcentre-district":"105","name":"Blackpool"}
+add-item	{"address":"100022978380","jobcentre":"4695","jobcentre-district":"119","name":"Walthamstow Forest Road"}
+add-item	{"address":"10014523996.0","jobcentre":"4507","jobcentre-district":"118","name":"Market Drayton"}
+add-item	{"address":"100072000000.0","jobcentre":"4550","jobcentre-district":"118","name":"Oswestry"}
+add-item	{"address":"100072000000.0","jobcentre":"4551","jobcentre-district":"118","name":"Shrewsbury"}
+add-item	{"address":"100072000000.0","jobcentre":"4554","jobcentre-district":"118","name":"Whitchurch"}
+add-item	{"address":"100071000000.0","jobcentre":"4541","jobcentre-district":"118","name":"Bridgnorth"}
+add-item	{"address":"452097936.0","jobcentre":"4549","jobcentre-district":"118","name":"Telford"}
+add-item	{"address":"10014523996","jobcentre":"4507","jobcentre-district":"118","name":"Market Drayton"}
+add-item	{"address":"100072000000","jobcentre":"4551","jobcentre-district":"118","name":"Shrewsbury"}
+add-item	{"address":"452097936","jobcentre":"4549","jobcentre-district":"118","name":"Telford"}
+add-item	{"address":"100071000000","jobcentre":"4541","jobcentre-district":"118","name":"Bridgnorth"}
+add-item	{"address":"100072000000","jobcentre":"4550","jobcentre-district":"118","name":"Oswestry"}
+add-item	{"address":"100072000000","jobcentre":"4554","jobcentre-district":"118","name":"Whitchurch"}
 add-item	{"address":"100091488330","jobcentre":"2778","jobcentre-district":"126","name":"Stowmarket"}
 add-item	{"jobcentre":"1757","jobcentre-district":"138","name":"Bracknell"}
 add-item	{"address":"100041046430","jobcentre":"3579","jobcentre-district":"122","name":"Exeter"}
@@ -1775,46 +1796,25 @@ append-entry	user	1533	2018-10-15T15:56:23Z	sha-256:b93d33417c09c71b895a4cc4520f
 append-entry	user	2756	2018-10-15T15:58:04Z	sha-256:c1481fbeef49381239d8f4bb6a239da7542b6434fcbd900da7188f83249c2ab2
 append-entry	user	9822	2018-10-15T15:59:58Z	sha-256:f4153f8e8d35873435174ec7d60ab320770c2182d9fc8b02638e8a83deb0eefe
 append-entry	user	1735	2018-10-15T16:03:58Z	sha-256:5aa736edb1d0a327d51a10f79dcdcf55b50d5d18bd3d0b913690f5fa24320ee9
-assert-root-hash	sha-256:843af3aabeefb009b43dcb97a45a99aa41f2a6100f22bc5527955bb572a7b17b
-add-item	{"address":"10090511700","jobcentre":"1791","jobcentre-district":"137","name":"Bexhill"}
 append-entry	user	1791	2019-07-07T14:24:47Z	sha-256:d3730e6ab407f2afd369b9a0a15fbc1b6988a822cb02d768b07405325d9636da
-add-item	{"address":"100012609264","jobcentre":"7629","jobcentre-district":"105","name":"Blackpool"}
 append-entry	user	7629	2019-07-07T14:24:47Z	sha-256:d4c747cdc3197452e45b5505b3df4406b19e933e1ecba90305c31ff940f828ab
-add-item	{"address":"10090745906","jobcentre":"4720","jobcentre-district":"118","name":"Bromsgrove"}
 append-entry	user	4720	2019-07-07T14:24:47Z	sha-256:b31a10991c82c6ed590087df7669d56bba694ec1c142c61654f3fe3643111493
-add-item	{"address":"10093304529","jobcentre":"1834","jobcentre-district":"117","name":"Maidstone"}
 append-entry	user	1834	2019-07-07T14:24:47Z	sha-256:75b73b234ed967f2abd23aefec8ed8155e85c308a859a17e5e82e3ee64adc1f0
-add-item	{"address":"10003003170","jobcentre":"1541","jobcentre-district":"106","name":"Uxbridge"}
 append-entry	user	1541	2019-07-07T14:24:47Z	sha-256:1d763562280df06e14d79e74d73f9b963759ab531d424dd15263c40d0feb4eb9
-add-item	{"address":"100022978380","jobcentre":"4695","jobcentre-district":"119","name":"Walthamstow Forest Road"}
 append-entry	user	4695	2019-07-07T14:24:47Z	sha-256:ac5774b5a4fcf7afa783311e9542c601e53060e0d5a4b6575c9b633cb6245e7f
-add-item	{"jobcentre":"9612","jobcentre-district":"115","name":"Caernarfon"}
 append-entry	user	9612	2019-07-07T14:24:47Z	sha-256:27d05a14920e23dd40e1c8d64d098994e10cbada7d4d4d935d53485f9f3d5c17
-add-item	{"address":"10091157379","jobcentre":"4578","jobcentre-district":"112","name":"Lichfield","start-date":"2019-03-20"}
 append-entry	user	4578	2019-07-07T14:24:47Z	sha-256:3c94ca07f687c5fa6f86e0f4754269fab04d5be32cb68a10e01ce877b7970e1a
-add-item	{"jobcentre":"7622","jobcentre-district":"110","name":"Ashton-under-Lyne"}
 append-entry	user	7622	2019-07-07T14:24:47Z	sha-256:4d514f46419f0cf09c2bf171db7d5e9807a045f5d0a0c79a2940d4c835c72353
-add-item	{"address":"100071000000.0","jobcentre":"4541","jobcentre-district":"118","name":"Bridgnorth"}
 append-entry	user	4541	2019-11-18T16:27:58Z	sha-256:ff2ebcf3c66f8c5781094c89dcc6de651151235609e871b35547ab23c653c511
-add-item	{"address":"10014523996.0","jobcentre":"4507","jobcentre-district":"118","name":"Market Drayton"}
 append-entry	user	4507	2019-11-18T16:27:58Z	sha-256:344d5e777dabb3608efa1701a60cc2df3f210c40fa186646b53e654bde06e863
-add-item	{"address":"100072000000.0","jobcentre":"4550","jobcentre-district":"118","name":"Oswestry"}
 append-entry	user	4550	2019-11-18T16:27:58Z	sha-256:730702bf287dc9b5ed7d67740623b5b5ccded44ce54d0a50b5cbfcd6cfe1125f
-add-item	{"address":"100072000000.0","jobcentre":"4551","jobcentre-district":"118","name":"Shrewsbury"}
 append-entry	user	4551	2019-11-18T16:27:58Z	sha-256:5dbbb8c2e6e683c437e57094321896425d965aff074ee6f3fd87e43c0b14c37b
-add-item	{"address":"452097936.0","jobcentre":"4549","jobcentre-district":"118","name":"Telford"}
 append-entry	user	4549	2019-11-18T16:27:58Z	sha-256:521c5b53862f95533ad5387f7e77fbc85ec48c781f5e5141a743dd0f16c7f5ba
-add-item	{"address":"100072000000.0","jobcentre":"4554","jobcentre-district":"118","name":"Whitchurch"}
 append-entry	user	4554	2019-11-18T16:27:58Z	sha-256:6994f1c614f1beecff7dd222a18d718686d86b8ed08c04bd7b424961e50e83b2
-add-item	{"address":"100071000000","jobcentre":"4541","jobcentre-district":"118","name":"Bridgnorth"}
 append-entry	user	4541	2019-11-18T16:46:39Z	sha-256:5613e12c56586d3f5ad7957afc0946f5b9784ba0ac013620a31b0e454ad97351
-add-item	{"address":"10014523996","jobcentre":"4507","jobcentre-district":"118","name":"Market Drayton"}
 append-entry	user	4507	2019-11-18T16:46:39Z	sha-256:3b657171b645ffcd2d4292a74274d7800a01e6967695f9c4b0bb45d89a4018c0
-add-item	{"address":"100072000000","jobcentre":"4550","jobcentre-district":"118","name":"Oswestry"}
 append-entry	user	4550	2019-11-18T16:46:39Z	sha-256:05c05cd40c35ec1928fc731842bd85b4ba2380b7066252bf7793ff17732dd1ad
-add-item	{"address":"100072000000","jobcentre":"4551","jobcentre-district":"118","name":"Shrewsbury"}
 append-entry	user	4551	2019-11-18T16:46:39Z	sha-256:e42f11e6a86687c49a27f490d522bb4aac9af4d106208d231fcf8e82ccbbda45
-add-item	{"address":"452097936","jobcentre":"4549","jobcentre-district":"118","name":"Telford"}
 append-entry	user	4549	2019-11-18T16:46:39Z	sha-256:e86531499fd37f0ba8bd1a427988a3ea7ce64f8ef31b3cc644ed4f33bdc31d1a
-add-item	{"address":"100072000000","jobcentre":"4554","jobcentre-district":"118","name":"Whitchurch"}
 append-entry	user	4554	2019-11-18T16:46:39Z	sha-256:a4159b5925d382d798583ab899c5716a91761474931b42485ad3d89d3af6d4da
+assert-root-hash	sha-256:631b1d1e238ae2eca401f71835069b5c3320117a49e0af59e330b2ef626691cb
